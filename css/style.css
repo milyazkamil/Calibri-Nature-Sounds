@@ -120,6 +120,7 @@ input[type="range"]{
 
 .middle {
     height: 75vh;
+    max-height: 600px;
     background-color: #17181E;
 }
 
@@ -353,6 +354,7 @@ input[type="range"]{
     .middle {
         z-index: 1;
         height: 100vh;
+        max-height: 1200px;
         margin-top: 60px;
         padding-top: 12vh;
         padding-bottom: 11vh;
